@@ -12,6 +12,7 @@ h3{
 div{
     display: flex;
     justify-content: center;
+    background-color: gray;
     align-items: center;
     color: green;
     font-size: 300%;
