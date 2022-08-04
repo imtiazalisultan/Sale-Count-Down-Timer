@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: cadetblue;
+}
+h3{
+    color: crimson;
+    text-align: center;
+    font-size: 300%;
+    padding: 5% 0%;
+}
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: green;
+    font-size: 300%;
+}
