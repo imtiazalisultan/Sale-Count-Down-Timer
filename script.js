@@ -1,6 +1,6 @@
 
 setInterval(()=>{
-var timerEnd= new Date("10 August 2022 12:00:00").getTime();
+var timerEnd= new Date("10 Nov 2022 12:00:00").getTime();
 // console.log(timerEnd);
 
 var nowTime=new Date().getTime();
